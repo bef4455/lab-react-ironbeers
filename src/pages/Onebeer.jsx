@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { useParams } from 'react-router-dom'
 import BeerCard from '../components/BeerCard'
-import Header from '../components/Header'
+
 
 
 const Onebeer = () => {
